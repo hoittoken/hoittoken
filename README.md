@@ -6,6 +6,8 @@
 
 ### Mi nombre es Miguel. Estoy interesado en programación, las ciencias naturales y español.
 
+## [https://github.com/hoittoken/hoittoken/blob/506e3b77f6d6793e0b903d42ede6ed628b194da2/cv_Aubakirov.pdf](Резюме / cv_Aubakirov)
+
 
 
 <!--
