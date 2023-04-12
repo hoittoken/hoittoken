@@ -1,5 +1,13 @@
 ## Привет! ¡Hola! Hi there 👋
 
+### Меня зовут Михаил, я увлекаюсь программированием, естественными науками и испанским языком.
+
+### My name is Mike. I'm interesting in DataScience, natural sciences and spanish.
+
+### Mi nombre es Miguel. Estoy interesado en programación, las ciencias naturales y español.
+
+
+
 <!--
 **hoittoken/hoittoken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
