@@ -32,6 +32,8 @@
 
 [project-2](https://github.com/hoittoken/Python/tree/master/Py/Projects/project_2) Подгрузка данных к предыдущему проекту с SQL
 
+[project-3](https://github.com/hoittoken/Python/tree/master/Py/Projects/project_3) EDA + FE на отзывах booking.com
+
 [project-4](https://github.com/hoittoken/Python/tree/master/Py/Projects/project_4) Задача классификации
 
 [project-5](https://github.com/hoittoken/Python/blob/master/Py/Projects/project_5/) Задача регрессии, продолжительность поездки NY taxi
