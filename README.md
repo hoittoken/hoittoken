@@ -34,7 +34,7 @@
 
 [project-4](https://github.com/hoittoken/Python/tree/master/Py/Projects/project_4) Задача классификации
 
-[project-5](https://github.com/hoittoken/Python/blob/master/Py/Projects/project_4/) Задача регрессии, продолжительность поездки NY taxi
+[project-5](https://github.com/hoittoken/Python/blob/master/Py/Projects/project_5/) Задача регрессии, продолжительность поездки NY taxi
 
 
 
