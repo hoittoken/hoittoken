@@ -30,16 +30,7 @@
 
 [project_motorica](https://github.com/hoittoken/Python/tree/master/Py/Projects/progect_motorica) Стажировка в [моторике](https://motorica.org/)
 
-[project-1](https://github.com/hoittoken/Python/tree/master/Py/Projects/project_1) Анализ вакансий на hh.ru с определением уровня желаемой ЗП
-
-[project-2](https://github.com/hoittoken/Python/tree/master/Py/Projects/project_2) Подгрузка данных к предыдущему проекту с SQL
-
-[project-3](https://github.com/hoittoken/Python/tree/master/Py/Projects/project_3) EDA + FE на отзывах booking.com
-
-[project-4](https://github.com/hoittoken/Python/tree/master/Py/Projects/project_4) Задача классификации
-
-[project-5](https://github.com/hoittoken/Python/blob/master/Py/Projects/project_5/) Задача регрессии, продолжительность поездки NY taxi
-
+[project_skillfactory](https://github.com/hoittoken/Python/tree/master/Py/Projects) Проекты выполненые в рамках учёбы в [skillfactory](https://skillfactory.ru/)
 
 
 <!--
