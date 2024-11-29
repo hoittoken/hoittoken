@@ -8,7 +8,7 @@
 
 [my short cv on aubakirovma.ru](https://aubakirovma.ru/cv_ds)
 
-[my short cv on google docs](https://drive.google.com/file/d/1GJesHoZuoNtB6j7hrYuuXUg5rY16qzDP/view)
+[my short cv on google docs]([https://drive.google.com/file/d/1GJesHoZuoNtB6j7hrYuuXUg5rY16qzDP/view](https://drive.google.com/file/d/1UA1WDRqHNPvDw1HvijAR9RJ3gUEZ1ArV/view?usp=sharing))
 
 Значки которые мне нравятся
 
